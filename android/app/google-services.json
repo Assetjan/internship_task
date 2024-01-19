@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292565287229",
+    "project_id": "social-dbc51",
+    "storage_bucket": "social-dbc51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292565287229:android:929685d4a26e24dd1e4554",
+        "android_client_info": {
+          "package_name": "com.example.social_wall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Va_-fAIQX7eXdT027wQGapqYde1Lz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
