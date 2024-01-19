@@ -1,11 +1,11 @@
-##Hello! I am Asset Ziyabek. This is my test task for the internship. 
-##All data comes from JSON response.
+<h1>Hello! I am Asset Ziyabek. This is my test task for the internship.</h1> 
+<h2>All data comes from JSON response.</h2>
 
 
 <img src="https://github.com/Assetjan/internship_task/assets/121282076/987237bc-d4bf-4c63-8a4d-8e18e0b43786" alt="Image 1" width="200" height="400">
 <img src="https://github.com/Assetjan/internship_task/assets/121282076/82068f92-fa4b-463a-94ac-f80586da7364" alt="Image 1" width="200" height="400">
 
-##Authorization has been done by Firebase.
+<h2>Authorization has been done by Firebase.</h2>
 
 <img src="https://github.com/Assetjan/internship_task/assets/121282076/6e547aeb-a001-4ba6-a118-5010b3451b85" alt="Image 1" width="200" height="400">
 <img src="https://github.com/Assetjan/internship_task/assets/121282076/1d72786c-92af-4cb4-aefd-6f1e8a21233b" alt="Image 2" width="200" height="400">
